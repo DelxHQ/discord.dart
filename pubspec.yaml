@@ -1,5 +1,6 @@
-name: discord.dart
+name: dart_discord
 description: A Dart wrapper to interact with the Discord API.
+version: 0.0.1
 authors:
 - Dylan Ogle <dylan@funo.io>
 homepage: https://github.com/DelxHQ/discord.dart
