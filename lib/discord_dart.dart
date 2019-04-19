@@ -9,5 +9,6 @@ import 'package:logging/logging.dart';
 import 'package:w_transport/w_transport.dart' as transport;
 
 part 'src/discord_dart/Discorddart.dart';
+part 'src/discord_dart/Websocket.dart';
 
 
